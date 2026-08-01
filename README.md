@@ -29,8 +29,11 @@ python -m venv env
 ```shell
 source env/bin/activate
 ```
+
 - or Windows
+```shell
 env\Scripts\activate
+```
 
 - install dependencies requirement:
 ```shell
